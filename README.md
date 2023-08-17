@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @dadmakestech
 - 👀 I’m interested in Python, Azure, Redis, GPT-3, etc.
-- 🌱 I’m currently playing with GitHub Co-Pilot
-- 📫 How to reach me: https://manuelarredondo.me
