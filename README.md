@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @dadmakestech
+- 👋 Hi, I’m @mannybuildstech
 - 👀 I’m interested in Python, Azure, Redis, GPT-3, etc.
